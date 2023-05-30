@@ -7,10 +7,10 @@ app.use(express.json());
 // Endpoint untuk registrasi pengguna
 app.post('/register', async (req, res) => {
   try {
-    const { nama, umur, number_of_allergen, list_of_allergen, halal } = req.body;
+    const { nama, number_of_allergen, list_of_allergen, halal } = req.body;
 
     // Lakukan validasi data pengguna
-    if (!nama || !umur || !number_of_allergen || !list_of_allergen || !halal) {
+    if (!nama || !number_of_allergen || !list_of_allergen || !halal) {
       return res.status(400).json({ error: 'Data pengguna tidak lengkap' });
     }
 
