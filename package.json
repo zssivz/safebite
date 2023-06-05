@@ -1,15 +1,19 @@
 {
-  "name": "safebite",
+  "name": "safebite1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.2",
+    "csv-parser": "^3.0.0",
     "express": "^4.18.2",
-    "firebase-admin": "^11.9.0"
+    "firebase-admin": "^11.9.0",
+    "fs": "^0.0.1-security"
   }
 }
