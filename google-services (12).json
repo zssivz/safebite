@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "748801823602",
+    "project_id": "safebite-abd6c",
+    "storage_bucket": "safebite-abd6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748801823602:android:8e2fce710fe3380b17c3eb",
+        "android_client_info": {
+          "package_name": "com.example.safebitecapstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748801823602-buvddqob3u6qeljdtf64geajvj54ceve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safebitecapstone",
+            "certificate_hash": "84d2230529e4decb1778ce184701cbbcc34c92e5"
+          }
+        },
+        {
+          "client_id": "748801823602-vnit0d2okisnenrcaek3ckckb17uql24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safebitecapstone",
+            "certificate_hash": "e8ce09a1b92dfc8be1903cfa30ea49247a0113a6"
+          }
+        },
+        {
+          "client_id": "748801823602-volckpfvi4t0pcj5rt87o0algcn9e224.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyydj8uPfBO6dHt3BX4HhDWgKKIYCfDWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748801823602-pc6kjpir81uqr3elp217mjqqb663gn1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
